@@ -9,9 +9,9 @@ import java.util.Scanner;
  * @param Report Patient's Covid test report
  * @param Address Patient's home address
  * @param Telephone Patient's mobile or telephone number
- * @param Adhaar Patient's Adhaar number
- * @param Age Patient's Age
- * @param choice to take user's choice (Y/N) for the continuation after adding one record
+ * @param Adhaar Patient's Adhaar  number
+ * @param Age Patient's  Age
+ * @param choice to take user's choice (Y/N) 			for the continuation after adding one record
  * @author Lenovo
  *
  */
