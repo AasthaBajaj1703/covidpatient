@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @param Telephone Patient's mobile or telephone number
  * @param Adhaar Patient's Adhaar number
  * @param Age Patient's Age
- * @param choice to take user's choice (Y/N) for the continuation after adding one record
+ * @param choice to take user's choice (Y/N) 			for the continuation after adding one record
  * @author Lenovo
  *
  */
